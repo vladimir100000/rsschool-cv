@@ -8,3 +8,27 @@
 ## About Me
 
 I am interested in learning web development. My goal is to become a better programmer.
+
+## Skills
+
+- HTML
+- CSS (Bootstrap, SASS/SCSS, BEM)
+- JavaScript
+- Typescript
+- Vue.js, React
+
+## Code Example
+
+```
+function createSecretHolder(secret) {
+  let hiddenProp = secret
+  return {
+    getSecret() {
+      return hiddenProp
+    },
+    setSecret(val) {
+      hiddenProp = val
+    }
+  }
+}
+```
