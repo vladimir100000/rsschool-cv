@@ -37,3 +37,8 @@ function createSecretHolder(secret) {
 
 - **Courses:**
   - RSSchool [HTML/CSS](https://rs.school/)
+
+## Languages
+
+- **Russian** - native
+- **English** - B1
