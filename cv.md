@@ -32,3 +32,8 @@ function createSecretHolder(secret) {
   }
 }
 ```
+
+## Education
+
+- **Courses:**
+  - RSSchool [HTML/CSS](https://rs.school/)
